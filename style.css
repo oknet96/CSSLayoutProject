@@ -1,0 +1,197 @@
+.logo-docplanner{
+    width: 268px;
+    height: 33px;
+}
+
+.main-menu{
+    display: flex;
+justify-content: flex-end;
+margin: 0px;    
+}
+.leadlogo {
+    margin-top: 100px;
+    margin-left: 50%;    
+}
+.seul{
+    color: #00b39b;
+    text-align: center;
+    letter-spacing: -.3px;
+    font-weight: 300;
+    font-size: 1.5em;
+    font-family: Work Sans,Arial,sans-serif;
+}
+.parent{
+    display: flex;
+    
+    
+
+
+}
+.general{
+    display: flex;
+    color: aliceblue;
+    margin: 30px;
+    justify-content: center;
+    gap: 12px;
+
+}
+.militaire1{
+    background-color: #00b39b;
+}
+.militaire2{
+    background-color: #3d83df;
+}
+.militaire3{
+    background-color: #1b2734;
+}
+.brands__logos {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-size: 0;
+    list-style: none;
+    width: 67%;
+    padding-left: 30%;
+    
+}
+.brands__logos .tuotempo img {
+    height: 16px;
+}
+.brands__logos .clinicloud img, .brands__logos .gipo img {
+    height: 34px;
+}
+.brands section__inner {
+    margin: 2.5rem auto 3.125rem;
+    display: block;
+}
+.stats {
+    background: #e5faf8;
+    background-image: linear-gradient(-45deg,rgba(0,204,177,.01) 5%,rgba(61,199,223,.1));
+    padding: 1.875em 0 0.625em;
+    overflow: hidden;
+    margin: 3.125rem auto 5.5rem;
+    
+    
+    
+}
+.offices__header {
+    
+    
+    font-size: .875em;
+    text-align: center;
+    text-align: center;
+    
+    
+}
+.offices__slider {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+    
+}
+.office__image img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    height: 270px;
+}
+.join-us__header {
+    max-width: 520px;
+    margin: 0 auto;
+    font-size: .875em;
+    text-align: center;
+}
+.btn {
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    outline: 0;
+    border: 0;
+    border-radius: 4px;
+    padding: 1.1666666667em 1.5em;
+    background: #3d83df;
+    font-family: Roboto,Arial,sans-serif;
+    line-height: 1em;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: .04em;
+    font-size: .75rem;
+    text-align: center;
+    text-decoration: none!important;
+    text-transform: uppercase;
+    transition: all .2s ease 0s;
+}
+.main-footer {
+    border-top: 1px solid #eef2f2;
+    text-align: center;
+    padding: 1em 0;
+}
+.stats{
+    background: #e5faf8;
+    background-image: linear-gradient(-45deg,rgba(0,204,177,.01) 5%,rgba(61,199,223,.1));
+    padding: 1.875em 0 0.625em;
+    overflow: hidden;
+    margin: 3.125rem auto 5.5rem;
+}
+.section__inner {
+    zoom: 1;
+    width: 1000px;
+    padding: 0 20px;
+    margin: 0 auto;
+    position: relative;
+    font-size: 12px;
+
+    }
+    .stats__header {
+        margin-right: 60em;
+        
+        
+    }
+    .vert-align>* {
+        width: 300px;
+        height: 100%;
+        display: table-cell;
+        vertical-align: middle;
+        position: relative;
+        box-sizing: border-box;
+    }
+    .stats__item {
+        background: #fff;
+        border-radius: 5px;
+        box-shadow: 0 1px 4px 0 rgba(0,0,0,.05);
+        height: 250px;
+        text-align: center;
+        padding: 15px;
+        font-size: .8125em;
+    }
+    
+
+    .grid{
+        display: flex;
+        gap: 12px;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+    }
+  
+    .main-footer p {
+        font-size: 12px;
+        color: #ababab;
+    }
+    .main-footer .section__inner {
+    font-size: 12px;
+    color: #ababab;
+}
+h1 {
+    font-size: 2.125rem;
+    color: #00b39b;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 15px;
+    color: #ababab;
+}
